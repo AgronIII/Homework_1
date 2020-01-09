@@ -1,0 +1,30 @@
+.a {
+    color: green;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: red;
+}
+.b {
+    color: black;
+    text-align: center;
+}
+.d {
+    color: brown; 
+    text-decoration: deeppink;
+}
+.f {
+    color: mediumspringgreen; size: 1cm;
+}
+.e {
+    color: purple; font-size: 4cm;
+}
+.g {
+    color: peru; font-size: 2cm; font: small-caps;
+}
+.h {
+    color: midnightblue; font-weight: 100;
+}

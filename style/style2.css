@@ -1,0 +1,13 @@
+#P1 {
+    color: navy; 
+    font-family: monospace;
+    margin-left: 20px; 
+    border-left: 1px solid navy; 
+    padding-left: 15px; 
+}
+#P2 {
+    background-color: blueviolet;
+    margin-left: 20px; 
+    border-left: 1px solid navy; 
+    padding-left: 50px; 
+}
